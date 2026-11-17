@@ -1,0 +1,8 @@
+# Backup & Raw Files
+*.backup.html
+video.original.mp4
+WhatsApp Video*
+WhatsApp Image*
+*.tmp
+.DS_Store
+Thumbs.db
